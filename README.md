@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Welcome to my RMIT GitHub where i plan to show off my work
+###  My name is Jakob Johnson, and I am 28 years old, from Parkes NSW. Formally a workshop foreman, I am currently studying for a bachelor's degree in IT at RMIT University. I have a passion for all aspects of IT, with experience in microcontroller and electronics prototyping, Web development, Networking, and Cybersecurity.
 
 Profile Website https://JakobJohnsonRMIT.github.io
 
